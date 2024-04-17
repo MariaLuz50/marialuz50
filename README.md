@@ -1,7 +1,7 @@
 
 ### Boas vindas ao meu perfil💟
 Meu nome é Maria da Luz 
-- Estou estudando [Alura] http://alura.com.br
+- Estou estudando [Alura] (http://alura.com.br)
 - Estou desenvolvendo JavaScript
 - Utilizo esse ponto para escrever todo meu processo de aprendizagem
 - 
